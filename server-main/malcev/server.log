@@ -1,0 +1,8 @@
+INFO:     127.0.0.1:58213 - "OPTIONS /api/register/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58213 - "POST /api/register/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58213 - "POST /api/register/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58391 - "OPTIONS /api/login/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58391 - "POST /api/login/ HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:58456 - "POST /api/login/ HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:58486 - "POST /api/login/ HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:58487 - "POST /api/login/ HTTP/1.1" 500 Internal Server Error
